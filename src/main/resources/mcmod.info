@@ -1,0 +1,16 @@
+[
+{
+  "modid": "homeset",
+  "name": "Home Set",
+  "description": "Home setting module.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["xwerswoodx"],
+  "credits": "Home setting module",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
